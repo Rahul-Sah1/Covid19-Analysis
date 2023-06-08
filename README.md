@@ -18,4 +18,4 @@ Start writing code and run Simultaneously.
 
 
 The dataset is already available in Kaggle.
-You can download from there or you can download from the files where I already provided.
+You can download from there or you can download from the files where I already provided
